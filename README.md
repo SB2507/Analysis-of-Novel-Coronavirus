@@ -1,4 +1,11 @@
 # ANALYSIS OF NOVEL CORONAVIRUS 
+The first Capstone project to build a dynamic dashboard in excel.
+Title-Analysis of Novel Coronavirus
+Here I Used Novel Coronavirus data downloaded from Kaggle,Covid19India.org and Johns Hopkins Department of Computer Science.
+The analysis was done on
+-Changes in the number of affected cases over time
+-Change in cases overtime at country level
+-Latest number of affected cases
 
  ![](dashboard.gif)
   
@@ -13,4 +20,6 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
+Acknowledgments
+-Johns Hopkins University and covid19india.org for making the data available for educational and academic research purposes.
 

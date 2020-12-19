@@ -1,4 +1,4 @@
-#ANALYSIS OF NOVEL CORONAVIRUS 
+# ANALYSIS OF NOVEL CORONAVIRUS 
  ![](dashboard.gif)
  
  Context
@@ -7,8 +7,10 @@ From World Health Organization - On 31 December 2019, WHO was alerted to several
  
  
  Dataset Link:
-https://api.covid19india.org/ 
+https://api.covid19india.org/
+
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
 
